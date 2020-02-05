@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nofishtou.github.io/rsschool-cv/
