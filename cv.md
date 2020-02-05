@@ -10,5 +10,5 @@
     * git
 5. https://github.com/nofishtou
 6. pet-project(film list(imdb clon) with rest api(http://www.omdbapi.com/))
-7. Beetroot academy front-end course, epam online frontend course 2019,  anderseen course
-8. According to https://www.training.epam.ua/ my english level is B1.
+7. Beetroot academy front-end course, EPAM online frontend course 2019,  Andersen course
+8. My english level is B1.(According to https://www.training.epam.ua/)
