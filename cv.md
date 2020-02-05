@@ -1,7 +1,7 @@
 1. Zubkov Andrii
-2. **bold**Contatcts**bold** :email : nofishtou@gmail.com, telegramm: @nofishtou
+2. **Contatcts** :email : nofishtou@gmail.com, telegramm: @nofishtou
 3. Become fullstack-developer
-4. **bold**Skills:**bold**
+4. **Skills:**
     * html5, 
     * css3, 
     * js(es5-6), 
