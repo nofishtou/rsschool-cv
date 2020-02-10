@@ -1,0 +1,13 @@
+.cv-info {
+  margin: 0 auto;
+  width: 1000px;
+  text-align: center;
+}
+
+ol {
+  text-align: left;
+}
+
+ul > li:first-child {
+  padding: 0px;
+}
